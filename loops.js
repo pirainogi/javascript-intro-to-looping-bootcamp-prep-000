@@ -18,3 +18,11 @@ function whileLoop(n){
   }
   return "done";
 }
+
+function doWhileLoop(array){
+  i = i + 1;
+}
+do {
+  console.log(); doWhileLoop();
+} while (i < 5);
+}
