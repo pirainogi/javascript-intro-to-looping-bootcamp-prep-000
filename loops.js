@@ -20,9 +20,6 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array){
-  i = i + 1;
-}
-do {
-  console.log(); doWhileLoop();
-} while (i < 5);
+  return Math.random()
+  >= 0.5;
 }
