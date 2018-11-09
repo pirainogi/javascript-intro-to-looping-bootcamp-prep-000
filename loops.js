@@ -10,6 +10,5 @@ return array;
 }
 
 function whileLoop(n){
-  return Math.random()
-  >= n 
+  
 }
